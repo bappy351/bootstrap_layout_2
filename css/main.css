@@ -114,17 +114,17 @@ textarea {
 header {
     min-height: 200px;
     background-color: mediumaquamarine;
-    border: 4px solid dodgerblue;
+    border: 4px solid #161617;
 }
 
 .common_style {
-    border: 4px solid dodgerblue;
-    background-color: slateblue;
+    border: 4px solid #141415;
+    background-color: aquamarine;
 }
 
 .common_style2 {
-    border: 4px solid dodgerblue;
-    background-color: mediumaquamarine;
+    border: 4px solid #1b1c1d;
+    background-color: #32d09a;
 }
 
 .header_left_style {
@@ -205,13 +205,13 @@ header {
 footer {
     min-height: 80px;
     background-color: mediumaquamarine;
-    border: 4px solid dodgerblue;
+    border: 4px solid #161617;
 }
 
 .footer_content {
     min-height: 40px;
-    margin: 11px auto;
-    background-color: slateblue;
+    margin: 16px auto;
+    background-color: aquamarine;
 }
 
 /*Footer ends*/
